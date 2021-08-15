@@ -4,6 +4,9 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+/*
+Created by Shem Mwangi 15/Aug/2021
+*/
 @RestController
 @RequestMapping(path = "api/v1/student")
 public class StudentController {

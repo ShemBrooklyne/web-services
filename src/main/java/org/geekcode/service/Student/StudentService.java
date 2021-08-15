@@ -9,6 +9,9 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Optional;
 
+/*
+Created by Shem Mwangi 15/Aug/2021
+*/
 @Service
 public class StudentService {
 
@@ -63,6 +66,4 @@ public class StudentService {
     }
 }
 
-/*
-                new Student(1L,"Miriam", "Miriam@mail.com", LocalDate.of(2000, Month.APRIL, 5), 16 )
-*/
+

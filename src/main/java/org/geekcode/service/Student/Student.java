@@ -4,6 +4,9 @@ import javax.persistence.*;
 import java.time.LocalDate;
 import java.time.Period;
 
+/*
+Created by Shem Mwangi 15/Aug/2021
+*/
 @Entity
 @Table
 public class Student {
